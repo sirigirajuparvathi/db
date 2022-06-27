@@ -7,8 +7,6 @@ CREATE TABLE USers (
    creative, modified
 );
 
-
-
 CREATE TABLE  Roles (
     role_id int,
     role_name varchar(25),
